@@ -34,10 +34,13 @@ python desafio_cientista_de_dados.ipynb
 
 ## Notas Adicionais
 
-Certifique - se de ter instalado todas as dependências necessárias para executar o projeto com os notebooks Jupyter, isso de extrema importância na execução do projeto
+Certifique - se de estar usando a versão Python 3.12.1
 
-Se encontrar problemas ao executar os notebooks, verifique se a extensão do Jupyter está corretamente configurada no Visual Studio Code ou consulte a documentação oficial do Visual Studio Code para obter ajuda. 
-=======
+Certifique - se de ter instalado todas as dependências necessárias para executar o projeto com os notebooks Jupyter, isso de extrema importância na execução do projeto.
+ 
+ Se encontrar problemas ao executar os notebooks, verifique se a extensão do Jupyter está corretamente configurada no Visual Studio Code ou consulte a documentação oficial do Visual Studio Code para obter ajuda.
+ 
+
 # desafio-cientista-dados
 Projeto criado para desafio cientista de dados
->>>>>>> bb8b4ec800cf73626b1b2174f61e4b105a6b22f7
+
