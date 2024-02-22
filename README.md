@@ -8,15 +8,15 @@ Desenvolvimento de um modelo de previsão de vendas.
 - <a> Notas Adicionais </a>
 ## Instalação
 
-Instale o Python 3.12.1 em seu computador para executar as scrpits:
+Instale o Python 3.12.1 em seu computador para executar os scrpits:
 
 <b>https://www.python.org/downloads/</b>
 
-Instale o Visual Studio Code em seu computador para executar as scripts:
+Instale o Visual Studio Code em seu computador para executar os scripts:
 
 <b>https://code.visualstudio.com/download</b>
 
-Configure o Visual Studio Code para compreender os comandos Python, aponte o interpretador para o executável de python(python.exe) para execução das scripts:
+Configure o Visual Studio Code para compreender os comandos Python, aponte o interpretador para o executável de python(python.exe) para execução dos scripts:
 
 Realize um clone deste repositório com o seguinte comando no PowerSheel ou Prompt de Comando:
 
